@@ -7,6 +7,6 @@ if __name__ == "_main_":
 
 @app.route('/')
 def home():
-    return '<p>Hello World!<p>'
+    return '<p>Ik hoop dat ik het opdracht goed heb uitgevoerd!<p>'
 
 
